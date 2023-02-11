@@ -20,7 +20,7 @@ const PostCard: React.FC<{
           className="cursor-pointer text-sm font-bold uppercase text-pink-400"
           onClick={onPostDelete}
         >
-          Delete
+          Delete 222
         </span>
       </div>
     </div>
